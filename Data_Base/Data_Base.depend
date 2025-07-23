@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1749136697 source:c:\embedded\test\data_base\data_base.c
+	"data_base.h"
+
+1749136110 source:c:\embedded\test\data_base\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data_base.h"
+
+1741366800 c:\embedded\test\data_base\data_base.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"platform_type.h"
+
+1734048894 c:\embedded\test\data_base\platform_type.h
+
